@@ -19,8 +19,8 @@ This project addresses questions such as:
 * How consistent are manufacturer names?
 * How consistent are product titles?
 * What are the major reconciliation exceptions?
-* # Data cleaning and transformation
-* The data cleaning preparation process was performed using power query in excel
+# Data cleaning and transformation
+ The data cleaning preparation process was performed using power query in excel
 # Cleaned manufacturer names
 Manufacturer names were standardized to improve consistency.
 # Power BI Dashboard
